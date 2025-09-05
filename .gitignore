@@ -1,0 +1,10 @@
+node_modules
+
+logs
+backups
+
+.DS_Store
+.env
+
+./library/PackageCache
+doc/*
